@@ -1,3 +1,5 @@
+
+/.gitconfig
 /.bash_history
 /.bash_logout
 /.bashrc
@@ -90,4 +92,4 @@
 /xiaomy_test_x6.py
 /xiaomy_test_x7.py
 /xiaomy_test_x8.py
-/xiaomy_test_x9.py
+/xiaomy_test_x9.py.gitignore
