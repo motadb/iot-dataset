@@ -11,7 +11,7 @@
 /.local
 /.profile
 /.ssh
-/.sudo_as_admin_successful
+/.sudo_as_admin_successful 
 /.vscode-server
 /.wget-hsts
 /advertising_results.csv
@@ -23,3 +23,4 @@
 /sync.log
 /venv
 /*.py
+/.gitignore
