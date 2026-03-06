@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Config files
+.gitconfig
+.bash_history
+
+# Logs & Data
+*.log
+*.db
+*.sqlite
+*.csv
+
+# Test files
+*test*.py
+xiaomy_test*.py
+xiaomi_test*.py
+
+# Backup files
+*.bak
+backup.log
+sync.log
